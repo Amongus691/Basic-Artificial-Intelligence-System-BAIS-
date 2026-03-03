@@ -6,7 +6,7 @@
 
 BAIS is a simple python based AI model system made by using chatgpt and using torch, The Ai currentlly is in very Early Development and is Very unstable. 
 
-****BAIS IS IN BETA BUILDS AND IS VERY BROKEN****
+****DISCLAMER: BAIS IS IN BETA BUILDS AND IS VERY BROKEN****
 
 
 ## how BAIS works
