@@ -10,7 +10,7 @@ BAIS is a simple python based AI model system made by using chatgpt and using to
 
 
 ## how BAIS works
-BAIS works by using the BAIS_builder program to create and train the ai model using the contents in data.txt file. #WARNING THE AI CREATION PROCESS CAN TAKE A LOT OF CPU AND GPU MEMORY# after that it should create a .pth file which is that ai model you can use in teh BAIS program
+BAIS works by using the BAIS_builder program to create and train the ai model using the contents in data.txt file. ****WARNING: THE AI CREATION PROCESS CAN TAKE A LOT OF CPU AND GPU MEMORY**** after that it should create a .pth file which is that ai model you can use in teh BAIS program
 
 ## Future of BAIS
 Hopefully in the future BAIS will finally get smart enought to accually communicate with people
