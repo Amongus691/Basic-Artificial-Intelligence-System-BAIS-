@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="logo.png" width="300">
+</p>
+
+# B.A.I.S
+Basic Artificial Intelligence System
+
+An evolving AI chatbot that learns, remembers, and speaks Morse code.
+
+
+
 BAIS is a simple python based AI model system made by using chatgpt and using torch, The Ai currentlly is in very Early Development and is Very unstable. 
 
 ****BAIS IS IN BETA BUILDS AND IS VERY BROKEN****
